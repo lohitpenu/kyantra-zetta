@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/lohitpenu/kyantra-zetta#readme",
   "dependencies": {
+    "ip": "^1.1.5",
+    "request-ip": "^2.0.2",
     "zetta": "^1.5.0"
   }
 }
